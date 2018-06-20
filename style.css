@@ -1,46 +1,46 @@
 body {
 	font-family: verdana;
-	background-image: url("http://dicksbeer.com/wp-content/uploads/2014/09/brewerytour22.png");
+	background-image: url("http://jackieos.com/wordpress/wp-content/uploads/2014/03/wood_background.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
+th {
+	padding:30px;	
+}	
+
+table {
+	background-color:#5d6c7c;
+	color:white;
+	width:100%;
+	text-shadow: 1px 1px grey;
+	font-size:20px;
+	margin-top:20px;
 	
-
-
-#logo {
-	padding-top: 20px;
-	padding-left: 15%;
-
 }
 
-.menu-item {
-	padding-left: 50px;
-	color: white;
-	padding-top: 5px;
-	height: 50px;
-
-	
-
+a:link {
+	text-decoration: none;
+	color:white;
 }
 
-#social-media {
-	height: 50px;
-	padding-left: 85%;
-
+a:visited {
+	text-decoration: none;
+	color:white;
 }
 
-#menu-banner {
-	width: 102%;
-	margin-top:-10px;
-	margin-left:-10px;
-	margin-right:-10px;
+a:hover {
+	text-decoration: none;
+	background-color:#cdd6d6;
+}	
+
+a:active {  
+	text-decoration: none;  
+	color:white;
 }
 
-button {
-	font-size: 15px;
-	margin-left:1080px;
-	background-color: grey;
-	margin-top: 5px;
+img {
+	width:70%;
+	margin-left:15%;
+	margin-top:2%;
 }
-
