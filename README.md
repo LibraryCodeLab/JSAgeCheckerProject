@@ -1,6 +1,6 @@
 # JSAgeCheckerProject
 Build a pop up in JavaScript that will ask the user's age and respond.
-
+<hr>
 <b>Project Step by Step: Build an Age Checker for a Brewery Website</b>
 
 1. Download the <a href="https://github.com/LibraryCodeLab/JSAgeCheckerProject/blob/master/index.html">HTML</a> & <a href="https://github.com/LibraryCodeLab/JSAgeCheckerProject/blob/master/style.css">CSS</a> Files. Look at the code in your HTML file and your CSS file to make sure you understand how it is rendering in the browser. 
