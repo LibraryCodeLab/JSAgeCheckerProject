@@ -35,3 +35,11 @@ In this project, we will build a pop up in <a href="https://www.w3schools.com/js
 
 8. Check your work! Save your JavaScript and refresh your page in the browser to check your work. Enter a number 21 or over and see if it gives you the correct response. Refresh your page to get the pop up to come up again--enter a different number to check your other response. 
 </p>
+<hr>
+<b>Helpful Links from Class</b>
+<a href="https://www.youtube.com/watch?v=nItSSTwBvSU">Video:What is JavaScript?</a>
+<a href="https://www.javascript.com/">JavaScript.com Tutorial</a>
+<a href="https://www.w3schools.com/js/">w3chools:JS</a>
+<a href="https://www.w3schools.com/js/js_syntax.asp">w3chools:JS Syntax</a>
+<a href="https://www.w3schools.com/js/js_datatypes.asp">w3chools:JS Data Types</a>
+<a href="https://www.w3schools.com/js/js_functions.asp">w3chools:JS Functions</a>
