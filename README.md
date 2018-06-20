@@ -8,7 +8,7 @@ In this project, we will build a pop up in <a href="https://www.w3schools.com/js
 
 3. Link your JavaScript file and your HTML file.  Between the header tags of your HTML document, write the following code:
 
-                              <div style="background-color:grey;><b><script type="text/javascript" src="script.js"></script></b></div>
+                              <b><script type="text/javascript" src="script.js"></script></b>
 
 4. Now we will create our popup box. First we need to create a variable called age. This will store the user's input to the question "How old are you?"
 
