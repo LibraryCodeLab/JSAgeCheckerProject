@@ -23,10 +23,10 @@ Build a pop up in JavaScript that will ask the user's age and respond.
 
 
 <b>
-    <p>if (</b>condition<b>) {</b></p>
-    <p>block of code to be executed if the condition is true</p>
+    <p>if (</b><i>condition</i><b>) {</b></p>
+    <p><i>block of code to be executed if the condition is true</i></p>
    <b> <p>} else { </p></b>
-    <p>block of code to be executed if the condition is false</p>
+    <p><i>block of code to be executed if the condition is false</i></p>
    <b> <p>}</p></b>
 </b>
 <i>Hint: Your parameter will be (age >= 21), which means greater than or equal to 21.</i>
