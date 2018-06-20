@@ -49,4 +49,5 @@ In this project, we will build a pop up in <a href="https://www.w3schools.com/js
 <ul>
     <li><a href="https://www.udacity.com/course/intro-to-javascript--ud803">JavaScript Course from Udacity</a></li>
     <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy: Intro to JavaScript</a></li>
+    <li><a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_lightbulb">w3schools Lightbulb Exercise</a></li>
 </ul>
