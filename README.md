@@ -20,7 +20,8 @@ Build a pop up in JavaScript that will ask the user's age and respond.
 6. Next, we will create our if/else statement. This will allow us to use the input to show a different message depending on how the user responds.  We want the popup to show one message if the user is over 21 and a different message is they are under 21. 
 <hr>
 Use the format for if else statements:
-<br>
+
+
 <b>
     <p>if (condition) {</p>
     <p>block of code to be executed if the condition is true</p>
@@ -30,6 +31,7 @@ Use the format for if else statements:
 </b>
 <i>Hint: Your parameter will be (age >= 21), which means greater than or equal to 21.</i>
 <hr>
+
 7. Change the text of your alerts. Edit the text of your alerts to say "Welcome!" if your user is 21 or older, or "You must be 21!" if they are under 21.
 
 8. Check your work! Save your JavaScript and refresh your page in the browser to check your work. Enter a number 21 or over and see if it gives you the correct response. Refresh your page to get the pop up to come up again--enter a different number to check your other response. 
