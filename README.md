@@ -1,7 +1,6 @@
 # JSAgeCheckerProject
 In this project, we will build a pop up in <a href="https://www.w3schools.com/js/">JavaScript</a> that will ask the user's age and respond. We will use the built in <a href="https://www.w3schools.com/js/js_popup.asp">alert function</a> in JavaScript to create a pop up box that asks the user's age. Using <a href="https://www.w3schools.com/js/js_if_else.asp">if/else logic</a>, we will program the popup box to respond "Welcome" if the user enters a number 21 or over, and "You must be 21!" if not.
 <hr>
-<b>Project Step by Step: Build an Age Checker for a Brewery Website</b>
 <p>
 1. Download the <a href="https://github.com/LibraryCodeLab/JSAgeCheckerProject/blob/master/index.html">HTML</a> & <a href="https://github.com/LibraryCodeLab/JSAgeCheckerProject/blob/master/style.css">CSS</a> Files. Look at the code in your HTML file and your CSS file to make sure you understand how it is rendering in the browser. 
 
