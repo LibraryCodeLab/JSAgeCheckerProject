@@ -29,7 +29,7 @@ Build a pop up in JavaScript that will ask the user's age and respond.
     <p><i>block of code to be executed if the condition is false</i></p>
    <b> <p>}</p></b>
 </b>
-<i>Hint: Your parameter will be (age >= 21), which means greater than or equal to 21.</i>
+<b>Hint: Your parameter will be (age >= 21), which means greater than or equal to 21.</b>
 <hr>
 
 7. Change the text of your alerts. Edit the text of your alerts to say "Welcome!" if your user is 21 or older, or "You must be 21!" if they are under 21.
