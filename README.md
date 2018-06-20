@@ -28,7 +28,7 @@ Use the format for if else statements:
     <p>}</p>
 </b>
 Hint: Your parameter will be (age >= 21), which means greater than or equal to 21.
-
+<hr>
 7. Change the text of your alerts. Edit the text of your alerts to say "Welcome!" if your user is 21 or older, or "You must be 21!" if they are under 21.
 
 8. Check your work! Save your JavaScript and refresh your page in the browser to check your work. Enter a number 21 or over and see if it gives you the correct response. Refresh your page to get the pop up to come up again--enter a different number to check your other response. 
