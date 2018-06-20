@@ -15,7 +15,7 @@ Build a pop up in JavaScript that will ask the user's age and respond.
 
                              <b>var age=prompt("How old are you?");</b>
 
-5. Save your JavaScript and refresh your page and you should see your popup. You'll notice you can enter in an answer to the prompt, but it doesn't do anything.
+<i>Save your JavaScript and refresh your page and you should see your popup. You'll notice you can enter in an answer to the prompt, but it doesn't do anything.</i>
 
 6. Next, we will create our if/else statement. This will allow us to use the input to show a different message depending on how the user responds.  We want the popup to show one message if the user is over 21 and a different message is they are under 21. 
 <hr>
