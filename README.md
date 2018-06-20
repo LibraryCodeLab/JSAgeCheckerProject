@@ -2,7 +2,7 @@
 Build a pop up in JavaScript that will ask the user's age and respond.
 <hr>
 <b>Project Step by Step: Build an Age Checker for a Brewery Website</b>
-
+<p>
 1. Download the <a href="https://github.com/LibraryCodeLab/JSAgeCheckerProject/blob/master/index.html">HTML</a> & <a href="https://github.com/LibraryCodeLab/JSAgeCheckerProject/blob/master/style.css">CSS</a> Files. Look at the code in your HTML file and your CSS file to make sure you understand how it is rendering in the browser. 
 
 2. Create a new file in your text editor and save it as <b>script.js</b>. This is where we will write all of our JavaScript code.
@@ -19,7 +19,7 @@ Build a pop up in JavaScript that will ask the user's age and respond.
 
 6. Next, we will create our if/else statement. This will allow us to use the input to show a different message depending on how the user responds.  We want the popup to show one message if the user is over 21 and a different message is they are under 21. 
 <hr>
-Use the format for if else statements:
+<p>Use the format for if else statements:</p>
 
 
 <b>
@@ -35,3 +35,4 @@ Use the format for if else statements:
 7. Change the text of your alerts. Edit the text of your alerts to say "Welcome!" if your user is 21 or older, or "You must be 21!" if they are under 21.
 
 8. Check your work! Save your JavaScript and refresh your page in the browser to check your work. Enter a number 21 or over and see if it gives you the correct response. Refresh your page to get the pop up to come up again--enter a different number to check your other response. 
+</p>
