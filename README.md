@@ -1,5 +1,5 @@
 # JSAgeCheckerProject
-In this project, we will build a pop up in JavaScript that will ask the user's age and respond. We will use the built in "alert" function JavaScript to create a pop up box that asks the user's ae. Using if/else logic, we will program the popup box to respond "Welcome" if the user enters a number 21 or over, and "You mus be 21!" if the number is below 21.
+In this project, we will build a pop up in JavaScript that will ask the user's age and respond. We will use the built in "alert" function in JavaScript to create a pop up box that asks the user's age. Using if/else logic, we will program the popup box to respond "Welcome" if the user enters a number 21 or over, and "You must be 21!" if not.
 <hr>
 <b>Project Step by Step: Build an Age Checker for a Brewery Website</b>
 <p>
