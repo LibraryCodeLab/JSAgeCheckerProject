@@ -45,3 +45,8 @@ In this project, we will build a pop up in <a href="https://www.w3schools.com/js
 <li><a href="https://www.w3schools.com/js/js_datatypes.asp">w3chools: JS Data Types</a></li>
 <li><a href="https://www.w3schools.com/js/js_functions.asp">w3chools: JS Functions</a></li>
 </ul>
+<b>More Practice</b>
+<ul>
+    <li><a href="https://www.udacity.com/course/intro-to-javascript--ud803">JavaScript Course from Udacity</a></li>
+    <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy: Intro to JavaScript</a></li>
+</ul>
