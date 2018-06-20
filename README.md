@@ -38,10 +38,10 @@ In this project, we will build a pop up in <a href="https://www.w3schools.com/js
 <hr>
 <b>Helpful Links from Class</b>
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=nItSSTwBvSU">Video:What is JavaScript?</a></li>
+    <li><a href="https://www.youtube.com/watch?v=nItSSTwBvSU">Video: What is JavaScript?</a></li>
 <li><a href="https://www.javascript.com/">JavaScript.com Tutorial</a></li>
-<li><a href="https://www.w3schools.com/js/">w3chools:JS</a></li>
-<li><a href="https://www.w3schools.com/js/js_syntax.asp">w3chools:JS Syntax</a></li>
-<li><a href="https://www.w3schools.com/js/js_datatypes.asp">w3chools:JS Data Types</a></li>
-<li><a href="https://www.w3schools.com/js/js_functions.asp">w3chools:JS Functions</a></li>
+<li><a href="https://www.w3schools.com/js/">w3chools: JS</a></li>
+<li><a href="https://www.w3schools.com/js/js_syntax.asp">w3chools: JS Syntax</a></li>
+<li><a href="https://www.w3schools.com/js/js_datatypes.asp">w3chools: JS Data Types</a></li>
+<li><a href="https://www.w3schools.com/js/js_functions.asp">w3chools: JS Functions</a></li>
 </ul>
